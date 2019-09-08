@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoList Sanity checks for TodoList - empty matches the snapshot 1`] = `"<div><h2>Todos</h2><ul></ul><form><input name=\\"todo\\"/></form></div>"`;
+
+exports[`TodoList Sanity checks for TodoList matches the snapshot 1`] = `"<div><h2>Todos</h2><ul><li>foo</li></ul><form><input name=\\"todo\\"/></form></div>"`;

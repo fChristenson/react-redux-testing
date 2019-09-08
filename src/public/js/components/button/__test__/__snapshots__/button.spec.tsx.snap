@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Sanity checks for Button matches the snapshot 1`] = `"<button></button>"`;

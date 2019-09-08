@@ -1,0 +1,1 @@
+export const LOGIN_ERROR = "LOGIN_PAGE/LOGIN_ERROR";
